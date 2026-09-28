@@ -1,0 +1,20 @@
+{
+  "name": "genpark-plan-and-solve-hierarchical-decomposer-skill",
+  "version": "1.0.0",
+  "description": "Plan-and-Solve agent framework decomposing complex multi-step queries into a directed dependency plan",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "plan-and-solve",
+    "task-decomposition",
+    "hierarchical-planning",
+    "agent-architecture",
+    "autonomous-agents",
+    "python-standard-library",
+    "agent-skills",
+    "multi-step-reasoning",
+    "orchestration",
+    "llm-planning"
+  ]
+}
