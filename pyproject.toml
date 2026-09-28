@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-plan-and-solve-hierarchical-decomposer-skill"
+version = "1.0.0"
+description = "Plan-and-Solve agent framework decomposing complex multi-step queries into a directed dependency plan"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
